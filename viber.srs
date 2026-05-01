@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "domains": [
+    "viber.com",
+    "*.viber.com",
+    "aloha46.viber.com",
+    "secure.viber.com",
+    "cdn.viber.com",
+    "api.viber.com",
+    "config.viber.com",
+    "media.viber.com",
+    "users.viber.com",
+    "client.viber.com",
+    "backup.viber.com",
+    "storage.viber.com",
+    "talk.viber.com",
+    "user-d31.viber.com"
+  ]
+}
