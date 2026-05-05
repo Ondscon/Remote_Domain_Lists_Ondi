@@ -7,3 +7,4 @@ https://github.com/amatol/awgmanager-lists/blob/main/services/cloudflare/cloudfl
 5- viber
 6- imo
 7- youtube
+8- meta
