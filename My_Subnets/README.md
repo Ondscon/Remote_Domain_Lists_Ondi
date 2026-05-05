@@ -1,7 +1,8 @@
 https://github.com/amatol/awgmanager-lists/blob/main/services/cloudflare/cloudflare.lst
 
-discord - 1 строка
-telegramm
-cloudflare
-akami
-viber
+1- discord - 1 строка
+2- telegramm
+3- cloudflare
+4- akami
+5- viber
+6- imo
